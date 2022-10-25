@@ -1,0 +1,105 @@
+
+
+* {
+
+    box-sizing: border-box;
+    padding: 0px;
+}
+
+.btn-primary {
+    background-color: #496580;
+    border: 1px solid #2d0f04;
+}
+
+.btn-primary:hover {
+    background-color: #B3725A;
+    border: 1px solid #2d0f04;
+}
+
+@media screen and (min-width: 200px) and (max-width: 8000px) {
+
+    .name {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 1200px) and (max-width: 8000px) {
+
+    .f {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 769px) {
+
+    .ocultar1 {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 769px) {
+
+    .ocultar2 {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 769px) {
+
+    .ocultar3 {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 769px) {
+
+    .oculto1 {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 769px) {
+
+    .oculto2 {
+        display: none;
+    }
+    
+}
+
+.menu {
+    background-color: #B3725A;
+}
+
+.navbar-toggler {
+    background-color: #496580;
+}
+
+@media screen and (min-width: 991px) and (max-width: 8000px) {
+
+    .menu {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: 990px) {
+
+    .btn-group {
+        display: none;
+    }
+    
+}
+
+@media screen and (min-width: 200px) and (max-width: px) {
+
+    .men {
+        display: none;
+    }
+    
+}
